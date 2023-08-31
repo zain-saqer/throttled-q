@@ -1,0 +1,21 @@
+{
+  "name": "throttled-q",
+  "version": "0.0.2",
+  "description": "A throttled job queue",
+  "main": "q.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zain-saqer/throttled-q.git"
+  },
+  "keywords": [
+    "throttled",
+    "queue"
+  ],
+  "author": "zain@saqer.de",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zain-saqer/throttled-q/issues"
+  },
+  "homepage": "https://github.com/zain-saqer/throttled-q"
+}
